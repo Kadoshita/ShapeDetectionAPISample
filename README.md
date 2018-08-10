@@ -1,0 +1,2 @@
+# ShapeDetectionAPISample
+Shape Detection APIのサンプル
